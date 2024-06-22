@@ -1,2 +1,6 @@
 /myenv
 /Docs
+/poppler
+/tesseract
+/embeddings
+.env

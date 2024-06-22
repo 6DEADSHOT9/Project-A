@@ -47,12 +47,12 @@ Stay tuned as we work to bring these exciting features to life!
 Project-A is in active development. Features and capabilities are subject to change as we refine and enhance the system. We appreciate your interest and patience as we work towards a stable release.
 
 ## Get Started
-(Add installation and usage instructions here when available)
+(Installation and usage instructions here when available)
 
 ## Contribute
-(Add contribution guidelines here when available)
+(Contribution guidelines here when available)
 
 ## License
-(Add license information here when decided)
+(License information here when decided)
 
 Join us on this exciting journey as we build the future of AI-assisted problem-solving!

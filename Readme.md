@@ -10,7 +10,7 @@ Project-A is your go-to solution for tackling any challenge. Harnessing cutting-
 ### 🌐 Web Wizard
 Harness the vast expanse of online information. Our AI dives deep into the web, retrieving and synthesizing relevant data to power your insights.
 
-### 👁️ Pixel Prophet
+### 👁️ Pixel Prodigy
 Got a picture? We'll decode it! Our image interpretation skills are here to amaze you.
 
 ### 🤖 Task Tamer
